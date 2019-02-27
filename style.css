@@ -1,0 +1,23 @@
+.table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    border-radius: 10px;
+    border-spacing: 1px;
+    text-align: center;
+color:white;
+}
+td {
+    padding: 10px 20px;
+    background: #1c458b;
+    border: 1px;
+}
+td {
+    padding: 10px 20px;
+    background: #1c458b;
+    border: 1px;
+}
+
+.color {
+
+    background-color: #f73577;
+}

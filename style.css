@@ -1,8 +1,6 @@
 .table {
     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
     font-size: 14px;
-    border-radius: 10px;
-    border-spacing: 1px;
     text-align: center;
 color:white;
 }
@@ -20,4 +18,28 @@ td {
 .color {
 
     background-color: #f73577;
+}
+
+h1 {
+    color: #1c458b;
+
+
+}
+.email-label
+{
+
+    background-color: #f73577;
+    color: #ffffff;
+
+
+
+
+
+}
+
+.style1
+{
+
+    background-color: #1c458b;
+    width: 250px;
 }

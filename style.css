@@ -1,3 +1,13 @@
+a
+{
+    text-decoration: none;
+    font-weight:bold;
+    color: #f73577;
+}
+a:hover {
+    color: blue;
+}
+
 .table {
     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
     font-size: 14px;
@@ -42,4 +52,5 @@ h1 {
 
     background-color: #1c458b;
     width: 250px;
+    height: 60px;
 }

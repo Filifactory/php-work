@@ -1,0 +1,43 @@
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+b {
+    color: red;
+    font-size: 20px;
+}
+h2 {
+    color: green;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul {
+    font-style: italic;
+    color: #924763;
+    width: 500px;
+}
+p {
+    font: 12px/25px Arial;
+    width: 500px;
+    text-align: justify;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+i {
+    color: blue;
+    font-weight: bold;
+}
+ol {
+    color: red;
+}

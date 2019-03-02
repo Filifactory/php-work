@@ -3,17 +3,16 @@
     font-size: 14px;
     text-align: center;
 color:white;
+    border: 5px solid #f73577;
+    border-radius: 15% 15% 15% 15%;
+    background: #1c458b;
 }
 td {
     padding: 10px 20px;
-    background: #1c458b;
-    border: 1px;
+
+
 }
-td {
-    padding: 10px 20px;
-    background: #1c458b;
-    border: 1px;
-}
+
 
 .color {
 
